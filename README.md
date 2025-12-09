@@ -2,8 +2,9 @@
 <h3 align="center">Not a robot. Yet.</h3>
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/harshroyy/harshroyy/main/tenor.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJucG43a24wNTN0NHEyZGkwcmJ3enFyanc0OHBwOWVscXRtM3JtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNFhOolVeCzPQ2Mx85/giphy.gif)" width="600" />
+  <img src="https://raw.githubusercontent.com/harshroyy/harshroyy/main/tenor1.gif" width="600" />
 </p>
+
 
 - 🔭 I’m currently grinding **DSA**
 - 🎯 I'm Looking for **Summer Internship 2026 opportunities**
