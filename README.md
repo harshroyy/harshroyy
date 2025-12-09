@@ -2,17 +2,13 @@
 <h3 align="center">Not a robot. Yet.</h3>
 
 <p align="center">
-  <img src="https://tenor.com/bbLYF.gif](https://media1.tenor.com/m/pPKOYQpTO8AAAAAd/monkey-developer.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/harshroyy/harshroyy/main/tenor.gif" width="400" />
 </p>
 
 - 🔭 I’m currently grinding **DSA**
-
 - 🎯 I'm Looking for **Summer Internship 2026 opportunities**
-
 - 🤝 I’m looking for help with **finding collaborators for innovative projects**
-
 - 💬 Ask me about **why my code worked yesterday but not today.**
-
 - 📫 Reach me via **https://www.linkedin.com/in/harshraj86/**
 
 <h3 align="left">Connect with me:</h3>
