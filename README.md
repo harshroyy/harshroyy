@@ -2,7 +2,7 @@
 <h3 align="center">Not a robot. Yet.</h3>
 
 <p align="center">
-  <img src="https://tenor.com/bbLYF.gif" width="400" />
+  <img src="https://tenor.com/bbLYF.gif](https://media1.tenor.com/m/pPKOYQpTO8AAAAAd/monkey-developer.gif" width="400" />
 </p>
 
 - 🔭 I’m currently grinding **DSA**
