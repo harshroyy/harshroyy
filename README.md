@@ -2,7 +2,7 @@
 <h3 align="center">Not a robot. Yet.</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshroyy/harshroyy/main/tenor.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/harshroyy/harshroyy/main/tenor.gif" width="600" />
 </p>
 
 - 🔭 I’m currently grinding **DSA**
