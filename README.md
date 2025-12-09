@@ -9,7 +9,7 @@
 - 🎯 I'm Looking for **Summer Internship 2026 opportunities**
 - 🤝 I’m looking for help with **finding collaborators for innovative projects**
 - 💬 Ask me about **why my code worked yesterday but not today.**
-- 📫 Reach me via **https://www.linkedin.com/in/harshraj86/**
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/harshraj86/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
