@@ -13,9 +13,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <!-- X (Twitter) -->
   <a href="https://x.com/harsh_royy" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_logo_2023.svg" height="30" width="30" />
   </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/harshraj86/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+
+  <!-- Instagram -->
   <a href="https://www.instagram.com/harsh_royy/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
