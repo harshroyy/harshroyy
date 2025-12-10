@@ -1,11 +1,13 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=600&lines=Hi+👾,+I'm+Harsh+Raj" />
-</h1>
-<h3 align="center">Not a robot. Yet.</h3>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/harshroyy/harshroyy/main/banner.jpg" width="100%" />
 </p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=600&lines=Hi+👾,+I'm+Harsh+Raj" />
+</h1>
+<h3 align="center">Not a robot. Yet.</h3>
 
 - 🔭 I’m currently grinding **DSA**
 - 🎯 I'm Looking for **Summer Internship 2026 opportunities**
