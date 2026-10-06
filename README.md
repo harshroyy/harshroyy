@@ -10,7 +10,6 @@
 <h3 align="center">Not a robot. Yet.</h3>
 
 - 🔭 I’m currently grinding **DSA**
-- 🎯 I'm Looking for **Summer Internship 2026 opportunities**
 - 🤝 I’m looking for help with **finding collaborators for innovative projects**
 - 💬 Ask me about **why my code worked yesterday but not today.**
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/harshraj86/)
